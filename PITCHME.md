@@ -102,6 +102,9 @@ WindowsとMacでは利用するアプリ名と、利用するコマンドも若�
 
 @snapend
 
+---?terminal=sessions/cddir.json&poster=npt:1:33&color=orange
+
+
 ---?color=#000000
 
 @snap[north-west text-06 text-white]
